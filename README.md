@@ -1,4 +1,4 @@
-![SysOps Navigator Logo](./logo/sysopsnavigator.png)
+![SysOps Navigator Logo](./logo/sysopsnavigators.png)
 Smooth Sailing Through System Operations
 
 
